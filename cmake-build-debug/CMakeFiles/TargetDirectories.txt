@@ -1,0 +1,3 @@
+/Users/KH/untitled8/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/KH/untitled8/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/KH/untitled8/cmake-build-debug/CMakeFiles/untitled8.dir

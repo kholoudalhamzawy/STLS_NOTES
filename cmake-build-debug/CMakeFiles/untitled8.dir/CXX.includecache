@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/KH/untitled8/stl.cpp
+iostream
+-
+iomanip
+-
+algorithm
+-
+string
+-
+cmath
+-
+utility
+-
+map
+-
+vector
+-
+queue
+-
+set
+-
+stack
+-
+array
+-
+deque
+-
+functional
+-
+utility
+-
+
